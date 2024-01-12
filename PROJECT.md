@@ -59,6 +59,25 @@ At the end of the semester, you will submit a final report for your project. You
 
 This report, along with your code and documentation, will constitute your final submission to the course and will also serve in place of your "final exam". 
 
+### Project Check-Ins
+
+Twice during the semester - once on March 1st and again on April 5th - you will do a brief "check-in" on your project and present it to the class. You will prepare a short PowerPoint presentation (15-20 minutes) during which you will present the following:
+
+* The current status of your project
+* Challenges you have faced so far, and any plans you have for addressing them
+* Successes you have had
+* If possible a brief demo of your project in its current state
+* Your plan for the next portion of the semester - before the next check-in, or how you will complete your project by the end of the semester
+
+You will present as a group and these presentations will constitute a portion of your overall project grade.
+
+Your presentation should not exceed 20 minutes - we would like to leave a bit of time for questions, both from instructor as well as your classmates. 
+
+You will be graded on:
+
+* your general, overall presentation design and delivery (hint: practice your presentation multiple times!)
+* content of your presentation - are all required sections listed above included?
+
 ## Group Expectations
 
 **All group members are expected to fully and equally participate in the project!!**
