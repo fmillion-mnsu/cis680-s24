@@ -44,6 +44,8 @@ D2L will be used to provide you with course announcements, homework assignments,
 
 This course will involve a capstone group project. You will work on in small groups of 3-4 students. The projects will include analyzing a problem, designing a solution, proposing your solution, and finally implementing your solution in software. 
 
+You will spend the majority of your time in class working on your project. I will be available to support you and answer questions you have. We will spend a brief amount of time during each class with some lecture or to address questions, concerns and topics of interest to you and the class. However, a large portion of your time will be spent in your teams. Therefore it is important that you come to class during each session - see the section on [attendance](#attendance-grading) for more details.
+
 Projects for this course will be business-related problems involving data and databases as well as user interface design. You will implement your solution in a programming language or languages selected by your group. **All project plans must receive instructor approval!**
 
 ## Important Dates
