@@ -9,12 +9,12 @@ Minnesota State University, Mankato. College of Science, Engineering, & Technolo
 ## Class Time and Place
 
 - **Semester**: Spring 2024 (1/8/2023 through 5/3/2023), 16 class sessions
-- **Days and Time**: Friday, 4:00 PM - 5:50 PM ([iCalendar File](https://github.com/fmillion-mnsu/cis680-s23/raw/master/cis680.ics))
+- **Days and Time**: Friday, 2:00 PM - 5:50 PM ([iCalendar File](https://github.com/fmillion-mnsu/cis680-s24/raw/master/cis680.ics))
 - **Location:** WH 283 ([Building Map](https://www.mnsu.edu/globalassets/maps/university/buildings/2021/wh_02_secondfloor_2021.pdf))
 
 ## Instructor
 
-- **Name**: Flint D. Million (he/him)
+- **Name**: Flint D. Million, PhD (he/him)
 - **Email**: flint.million@mnsu.edu
 - **Office / Student Support Hours**: By Appointment
 
