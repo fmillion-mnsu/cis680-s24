@@ -22,8 +22,9 @@ There will be several deadlines that will occur throughout the project. Some of 
 
 > * **February 9, 2024**: Submit your *final* project proposal for approval. See above.
 >   * You should be submitting drafts of your project proposal **well before** this date for feedback! It is to your advantage to submit project plan drafts **early** so that we may discuss and negotiate your requirements!
-> * **March 1, 2024**: Initial Project Checkin. More details in class.
+> * **March 15, 2024**: Initial Project Checkin. More details in class.
 > * **April 5, 2024**: Second Project Checkin. More details in class.
+> * **April 26, 2024**: Final Presentation.
 > * **May 3, 2024**: **Final Project submission due.** *No exceptions* without prior approval from instructor. Failure to submit a final project *will result in a grade of F for the course.*
 
 It is your team's responsibility to ensure that your project is completed on time and that each step is submitted on its respective due date. **Failure to submit will result in ALL group members losing credit!** Only one group member is required to submit, however multiple group members may submit if you wish to ensure that your submission is turned in. 
