@@ -52,8 +52,9 @@ Projects for this course will be business-related problems involving data and da
 
 * **February 9, 2024**: Submit your *final* project proposal for approval. 
   * You should be submitting drafts of your project proposal **well before** this date for feedback! If you submit an unacceptable proposal on 2/9, **I will specify the requirements for your project** and it will be your responsibility to meet those requirements. It is therefore to your advantage to submit project plan drafts **early** so that we may discuss and negotiate your requirements!
-* **March 1, 2024**: Initial Project Checkin. More details in class.
+* **March 15, 2024**: Initial Project Checkin. More details in class.
 * **April 5, 2024**: Second Project Checkin. More details in class.
+* **April 26, 2024**: Final Presentation.
 * **May 3, 2024**: **Final Project submission due.** *No exceptions* without prior approval from instructor! Failure to submit a final project *will result in a grade of F for the course.*
 
 More details about the project can be found in the project description document.
